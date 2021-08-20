@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7f204d8e3020338c",
+        "id": "e93efd7bf3e70ec3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Initial Set and Resources/007 Players.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Initial Set and Resources/007 Players.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f204d8e3020338c",
+  "active": "e93efd7bf3e70ec3",
   "lastOpenFiles": [
+    "README.md",
     "000 Initial Set and Resources/007 Players.md",
     "000 Initial Set and Resources/007_Players.md",
     "000 Initial Set and Resources/006_Inactive Rules.md",
@@ -107,7 +108,6 @@
     "000 Initial Set and Resources/003_Immutable Rules.md",
     "000 Initial Set and Resources/002_Introduction.md",
     "000 Initial Set and Resources/001_Initial Set.md",
-    "README.md",
     "000 Initial Set and Resources/008_Players.md"
   ]
 }
