@@ -1,0 +1,120 @@
+:root {
+  --dark0: #202020;
+  --dark1: #161616;
+  --dark2: #000000;
+  --dark3: #000000;
+
+  --light0: #FAF8F0;
+  --light1: #E4DCB4;
+  --light2: #DFD5A5;
+
+  --red: #C42021;
+  --orange: #CF943A;
+  --yellow: #DBAE6B;
+  --blue: #628395;
+  --purple: #3C1742;
+  --gray: #96897B;
+}
+
+
+a.internal-link {
+  color: var(--blue);
+}
+a.internal-link:hover {
+  color: var(--gray);
+}
+
+a.external-link {
+  color: var(--blue);
+}
+a.external-link:hover {
+  color: var(--gray);
+}
+
+.theme-dark,
+.theme-light {
+  --font-monospace: "Source Code Pro", monospace;
+  --background-primary: var(--dark0);
+  --background-primary-alt: var(--dark0);
+  --background-secondary: var(--dark1);
+  --background-secondary-alt: var(--dark2);
+  --text-normal: var(--light2);
+  --text-faint: var(--light1);
+  --text-muted: var(--light0);
+  --text-title-h1: var(--lighst);
+  --text-title-h2: var(--light0);
+  --text-title-h3: var(--light0);
+  --text-title-h4: var(--light0);
+  --text-title-h5: var(--light0);
+  --text-link: var(--red);
+  --text-a: var(--red);
+  --text-a-hover: var(--light0);
+  --text-mark: var(--red);
+  --pre-code: var(--red);
+  --interactive-accent: var(--blue);
+  --interactive-before: var(--blue);
+  --background-modifier-border: var(--light1);
+  --text-accent: var(--yellow);
+  --interactive-accent-rgb: var(--red);
+  --inline-code: var(--frost1);
+  --code-block: var(--red);
+  --vim-cursor: var(--orange);
+  --text-highlight-bg: rgba(150, 137, 123, 1);
+  --text-selection: rgba(150, 137, 123, .25);
+  --scrollbar-bg: transparent;
+  --scrollbar-thumb-bg: transparent;
+}
+
+
+
+.tag {
+  background-color: #CF995F;
+  border: none;
+  color: black;
+  font-size: 14px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+}
+
+.tag:hover {
+color: black;
+background-color: white;
+}
+.tag[href^="#immutable"] {
+  color: white;
+  background-color: #561643;
+}
+.tag[href^="#immutable"]:hover {
+color: black;
+background-color: white;
+}
+.tag[href^="#mutable"] {
+  color: white;
+  background-color: #C42021;
+}
+.tag[href^="#mutable"]:hover {
+color: black;
+background-color: white;
+}
+.tag[href^="#inactive"] {
+  color: white;
+  background-color: #96897B;
+}
+.tag[href^="#inactive"]:hover {
+color: black;
+background-color: white;
+}
+.tag[href^="#active"] {
+  color: white;
+  background-color: #628395;
+}
+.tag[href^="#active"]:hover {
+color: black;
+background-color: white;
+}
+

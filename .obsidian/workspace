@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "1e19ed91ffe143dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f204d8e3020338c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Initial Set and Resources/007 Players.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c267aa697bad5bc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0971f76c1fbe90c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6980a7743b4b3a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72655ca78b01e096",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "right": {
+    "id": "b7b1ff38f3b85668",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d64baa1af332ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b8cf3902a9feef8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Initial Set and Resources/007 Players.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e2419811d72712f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7f204d8e3020338c",
+  "lastOpenFiles": [
+    "000 Initial Set and Resources/007 Players.md",
+    "000 Initial Set and Resources/007_Players.md",
+    "000 Initial Set and Resources/006_Inactive Rules.md",
+    "000 Initial Set and Resources/005_Active Rules.md",
+    "000 Initial Set and Resources/004_Mutable Rules.md",
+    "000 Initial Set and Resources/003_Immutable Rules.md",
+    "000 Initial Set and Resources/002_Introduction.md",
+    "000 Initial Set and Resources/001_Initial Set.md",
+    "README.md",
+    "000 Initial Set and Resources/008_Players.md"
+  ]
+}

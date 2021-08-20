@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "300 New Rules",
+  "attachmentFolderPath": "000 Initial Set and Resources",
+  "spellcheck": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "showFrontmatter": false
+}
